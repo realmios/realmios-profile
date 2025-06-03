@@ -35,7 +35,7 @@
     </dict>
   </array>
   <key>PayloadDisplayName</key>
-  <string>Realm iOS Shortcut</string>
+  <string>Realm iOS</string>
   <key>PayloadIdentifier</key>
   <string>com.realmios.profile</string>
   <key>PayloadOrganization</key>
